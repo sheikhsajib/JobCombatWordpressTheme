@@ -1,0 +1,85 @@
+/*
+	Theme Name: Job Combat
+	Theme URI:https://www.gazipro.com
+	Author: Gazi Pro
+	Author URI:www.gazipro.com
+	Version: 1.0.3
+	Description: Job Information and Quiz test Site
+	License: GNU General Public License v2 or Later
+	License URI:
+	Tags: Education, Job Preparation, Exam Quiz
+	Text Domain: job_combat
+*/
+
+
+/*
+	Theme Brand Color code : 
+	Primary		: 	Forest Green	: #009900;
+	Secondery Dark:	Office Green	: #008000;
+	Basic		:	Kelly Green		: #00b300;
+	Forth Color	:	Penn Red		: #990000;
+	Fifth Color	:	Pumpkin			: #FF6600;
+
+
+
+	Basic Green
+	background:#00eb00;
+	background: rgb(0,235,0);//in RGB
+
+	background: rgb(0,235,0);
+	background: linear-gradient(to top, #009900 0%, #00bb00 100%);	
+
+*/
+@font-face {
+	font-family: adarsha_lipi;
+	src: url(assets/fonts/AdorshoLipi.ttf);
+  }
+
+/*Fonts Open Sans Condensed:700 -----For Headlines
+font-family: 'Open Sans Condensed', sans-serif;
+*/
+
+
+
+
+/* Default classes for Themeforest css class is needed in your theme css.*/
+.wp-caption{
+	
+}
+.wp-caption-text{
+	
+}
+.screen-reader-text{
+	
+}
+.gallery-caption{
+	
+}
+.bypostauthor {
+	
+}
+.alignright {
+	text-align:right;
+}
+.alignleft {
+	text-align:left;
+}
+.aligncenter{
+	text-align:center;
+}
+
+.bg_col_1st{
+	background-color: #fcc200; /*Forest Green*/
+}
+.bg_col_2nd{
+	background-color: #008000; /*Forest Green*/
+}
+.bg_col_3rd{
+	background-color: #00b300; /*Forest Green*/
+}
+.bg_col_4th{
+	background-color: #996515; /*Forest Green*/
+}
+.bg_col_5th{
+	background-color: #FF7F7F; /*Forest Green*/
+}
